@@ -1,0 +1,109 @@
+{
+  "sets": [
+    {
+      "date": "1531093577964",
+      "notes": "Heavy cross wind",
+      "boat": "Mastercraft 2018",
+      "slalomPasses" : [
+        {
+          "key": "1",
+          "ropeLength": "15' Off",
+          "boatSpeed": "36mph",
+          "buoyCount": "4.5",
+          "zoSetting": "C2"
+        },
+        {
+          "key": "2",
+          "ropeLength": "15' Off",
+          "boatSpeed": "36mph",
+          "buoyCount": "6.0",
+          "zoSetting": "C2"
+        }
+      ]
+    },
+    {
+      "date": "1531093577964",
+      "notes": "Heavy cross wind",
+      "boat": "Mastercraft 2018",
+      "slalomPasses" : [
+        {
+          "key": "1",
+          "ropeLength": "15' Off",
+          "boatSpeed": "36mph",
+          "buoyCount": "4.5",
+          "zoSetting": "C2"
+        },
+        {
+          "key": "2",
+          "ropeLength": "15' Off",
+          "boatSpeed": "36mph",
+          "buoyCount": "6.0",
+          "zoSetting": "C2"
+        }
+      ]
+    },
+    {
+      "date": "1531093577964",
+      "notes": "Heavy cross wind",
+      "boat": "Mastercraft 2018",
+      "slalomPasses" : [
+        {
+          "key": "1",
+          "ropeLength": "15' Off",
+          "boatSpeed": "36mph",
+          "buoyCount": "4.5",
+          "zoSetting": "C2"
+        },
+        {
+          "key": "2",
+          "ropeLength": "15' Off",
+          "boatSpeed": "36mph",
+          "buoyCount": "6.0",
+          "zoSetting": "C2"
+        }
+      ]
+    },
+    {
+      "date": "1531093577964",
+      "notes": "Heavy cross wind",
+      "boat": "Mastercraft 2018",
+      "slalomPasses" : [
+        {
+          "key": "1",
+          "ropeLength": "15' Off",
+          "boatSpeed": "36mph",
+          "buoyCount": "4.5",
+          "zoSetting": "C2"
+        },
+        {
+          "key": "2",
+          "ropeLength": "15' Off",
+          "boatSpeed": "36mph",
+          "buoyCount": "6.0",
+          "zoSetting": "C2"
+        }
+      ]
+    },
+    {
+      "date": "1531093577964",
+      "notes": "Heavy cross wind",
+      "boat": "Mastercraft 2018",
+      "slalomPasses" : [
+        {
+          "key": "1",
+          "ropeLength": "15' Off",
+          "boatSpeed": "36mph",
+          "buoyCount": "4.5",
+          "zoSetting": "C2"
+        },
+        {
+          "key": "2",
+          "ropeLength": "15' Off",
+          "boatSpeed": "36mph",
+          "buoyCount": "6.0",
+          "zoSetting": "C2"
+        }
+      ]
+    }
+  ]
+}
